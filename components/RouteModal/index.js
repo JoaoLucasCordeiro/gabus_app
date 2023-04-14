@@ -1,5 +1,7 @@
+import Link from 'next/link'
 import coracaoIcon from '../../public/icons/coracao_icon.png'
 import Image from 'next/image'
+
 
 export default function RouteModal() {
     return (
@@ -36,13 +38,20 @@ export default function RouteModal() {
 
 
             <div className='flex items-center justify-center gap-10 mt-2'>
-                <span className='text-blue-500'>
-                    Horários
-                </span>
 
-                <span className='text-blue-500'>
-                    Ver rotas
-                </span>
+                <Link href="#">
+                    <span className='text-blue-500 cursor-pointer'>
+                        Horários
+                    </span>
+                </Link>
+
+
+                <Link href="#">
+                    <span className='text-blue-500 cursor-pointer'>
+                        Ver rotas
+                    </span>
+                </Link>
+
             </div>
 
 

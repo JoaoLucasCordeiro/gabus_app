@@ -1,5 +1,5 @@
+import NavigationBar from "../../../components/NavigationBar"
 import RouteModal from "../../../components/RouteModal"
-
 
 
 export default function AppFeed() {
@@ -15,6 +15,8 @@ export default function AppFeed() {
                 <RouteModal />
                 <RouteModal />
             </div>
+
+            <NavigationBar/>
         </div>
     )
 }
