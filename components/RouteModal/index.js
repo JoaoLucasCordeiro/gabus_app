@@ -39,14 +39,14 @@ export default function RouteModal() {
 
             <div className='flex items-center justify-center gap-10 mt-2'>
 
-                <Link href="#">
+                <Link href="./Schedules">
                     <span className='text-blue-500 cursor-pointer'>
                         Horários
                     </span>
                 </Link>
 
 
-                <Link href="#">
+                <Link href="./RoutesPage">
                     <span className='text-blue-500 cursor-pointer'>
                         Ver rotas
                     </span>
