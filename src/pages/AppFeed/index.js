@@ -9,11 +9,6 @@ export default function AppFeed() {
 
             <div className="flex flex-col items-center justify-center">
                 <RouteModal />
-                <RouteModal />
-                <RouteModal />
-                <RouteModal />
-                <RouteModal />
-                <RouteModal />
             </div>
 
             <NavigationBar/>
