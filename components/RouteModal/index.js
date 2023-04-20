@@ -3,7 +3,7 @@ import coracaoIcon from '../../public/icons/coracao_icon.png'
 import Image from 'next/image'
 
 
-export default function RouteModal() {
+export default function RouteModal({ linha, bairro, preco, tempoMedio }) {
     return (
         <div className="w-[350px] p-5 rounded-[20px] bg-secondaryBg flex flex-col items-center mt-5">
 
@@ -11,14 +11,14 @@ export default function RouteModal() {
 
                 <div className="flex flex-col items-center justify-center">
                     <span className="text-white">Linha</span>
-                    <span className="text-green-500">015</span>
+                    <span className="text-green-500">{linha}</span>
                 </div>
 
-                <h1 className="text-white">COHAB1</h1>
+                <h1 className="text-white">{bairro}</h1>
 
                 <div className="flex flex-col items-center justify-center ">
                     <span className="text-white">Preço</span>
-                    <span className="text-green-500">R$3,90</span>
+                    <span className="text-green-500">{preco}</span>
                 </div>
 
             </div>
@@ -27,7 +27,7 @@ export default function RouteModal() {
 
                 <div className="flex flex-col items-center justify-center ">
                     <span className="text-white">Tempo médio</span>
-                    <span className="text-green-500">20 min</span>
+                    <span className="text-green-500">{tempoMedio}</span>
                 </div>
 
                 <div>
@@ -53,9 +53,6 @@ export default function RouteModal() {
                 </Link>
 
             </div>
-
-
-
 
         </div>
     )

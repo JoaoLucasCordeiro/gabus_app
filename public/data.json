@@ -1,0 +1,63 @@
+[
+    {
+        "linha": "015",
+        "bairro": "Brasília",
+        "preco": "R$3,90",
+        "tempoMedio": "20 min"
+    },
+    {
+        "linha": "017",
+        "bairro": "Cidade das flores",
+        "preco": "R$3,90",
+        "tempoMedio": "16 min"
+    },
+    {
+        "linha": "01",
+        "bairro": "COHAB1",
+        "preco": "R$3,90",
+        "tempoMedio": "10 min"
+    },
+    {
+        "linha": "05",
+        "bairro": "COHAB2",
+        "preco": "R$3,90",
+        "tempoMedio": "14 min"
+    },
+    {
+        "linha": "07",
+        "bairro": "FÊNIX L1",
+        "preco": "R$3,90",
+        "tempoMedio": "10 min"
+    },
+    {
+        "linha": "020",
+        "bairro": "Garoinha",
+        "preco": "R$3,90",
+        "tempoMedio": "24 min"
+    },
+    {
+        "linha": "03",
+        "bairro": "Indiano",
+        "preco": "R$3,90",
+        "tempoMedio": "15 min"
+    },
+    {
+        "linha": "09",
+        "bairro": "JM Dourado",
+        "preco": "R$3,90",
+        "tempoMedio": "19 min"
+    },
+    {
+        "linha": "016",
+        "bairro": "Liberdade",
+        "preco": "R$3,90",
+        "tempoMedio": "20 min"
+    },
+    {
+        "linha": "04",
+        "bairro": "Parque Fênix",
+        "preco": "R$3,90",
+        "tempoMedio": "18 min"
+    }
+    
+]
