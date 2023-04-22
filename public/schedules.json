@@ -1,0 +1,62 @@
+[
+    {
+        "horariosBairroUtil": [
+            "07:20",
+            "07:55",
+            "09:15",
+            "10:00",
+            "11:00",
+            "12:00",
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00",
+            "17:00",
+            "18:00",
+            "18:50"
+        ],
+        "horariosCentroÚtil": [
+            "07:20",
+            "07:55",
+            "09:15",
+            "10:00",
+            "11:00",
+            "12:00",
+            "13:00",
+            "14:00",
+            "15:00",
+            "16:00",
+            "17:00",
+            "18:00",
+            "18:50"
+        ],
+        "rotas": [
+            "Terminal Brasília",
+            "Rua Capitão Pedro Rodrigues",
+            "Rua Coronel Antonio Souto",
+            "Rua são Domingos",
+            "Rua Coronel Antônio Souto",
+            "Rua São Domingos",
+            "Rua Coronel Antônio Victor",
+            "Praça Mestre Dominguinhos",
+            "Rua Coronel Antônio Victor",
+            "Praça Mestre Dominguinhos",
+            "Praça Tiradentes | Mosteiro De São Bento",
+            "Rua Dantas Barreto",
+            "Terminal Centro",
+            "Av.Santo Antônio | Lojas Americanas",
+            "Rua Doutor José Mariano | Colégio XV De Novembro",
+            "Rua Ernesto Dourado",
+            "Av. Euclides Dourado",
+            "Rua Da Liberdade",
+            "Rua Dos Operários",
+            "Terminal Liberdade",
+            "Avenida Santa Rosa",
+            "Av, Rui Barbosa",
+            "Rua Quinze De Novembro | Praça Souto Filho"
+        ]
+    }
+
+   
+]
+       

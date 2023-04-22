@@ -3,7 +3,7 @@ import coracaoIcon from '../../public/icons/coracao_icon.png'
 import Image from 'next/image'
 
 
-export default function RouteModal({ linha, bairro, preco, tempoMedio }) {
+export default function RouteModal({ linha, bairro, preco, tempoMedio, schedules, routes}) {
     return (
         <div className="w-[350px] p-5 rounded-[20px] bg-secondaryBg flex flex-col items-center mt-5">
 
@@ -30,7 +30,7 @@ export default function RouteModal({ linha, bairro, preco, tempoMedio }) {
                     <span className="text-green-500">{tempoMedio}</span>
                 </div>
 
-                <div>
+                <div className='cursor-pointer'>
                     <Image src={coracaoIcon} width={24} height={24} alt='ícone de favoritar' />
                 </div>
 
@@ -39,14 +39,14 @@ export default function RouteModal({ linha, bairro, preco, tempoMedio }) {
 
             <div className='flex items-center justify-center gap-10 mt-2'>
 
-                <Link href="./Schedules">
+                <Link href={schedules}>
                     <span className='text-blue-500 cursor-pointer'>
                         Horários
                     </span>
                 </Link>
 
 
-                <Link href="./RoutesPage">
+                <Link href={routes}>
                     <span className='text-blue-500 cursor-pointer'>
                         Ver rotas
                     </span>

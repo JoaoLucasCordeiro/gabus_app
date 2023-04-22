@@ -1,16 +1,14 @@
 import Link from 'next/link'
 import Image from 'next/image'
-import ArrowIcon from '../../../public/icons/arrow.png'
+import ArrowIcon from '../../../../public/icons/arrow.png'
 
 
-
-
-export default function RoutesPage() {
+export default function BusRoutes() {
     return (
         <div className="flex flex-col items-center bg-mainBg min-h-screen h-screen-sm w-[414px] h-[896px]">
 
             <div className="mr-80 absolute mt-7">
-                <Link href='./AppFeed'>
+                <Link href='/AppFeed'>
                     <Image src={ArrowIcon} width={18} height={18} alt='Ícone de interação' />
                 </Link>
             </div>

@@ -3,61 +3,80 @@
         "linha": "015",
         "bairro": "Brasília",
         "preco": "R$3,90",
-        "tempoMedio": "20 min"
+        "tempoMedio": "20 min",
+        "schedule": "./Brasilia/Schedules",
+        "routes": "./Brasilia/BusRoutes"
     },
     {
         "linha": "017",
         "bairro": "Cidade das flores",
         "preco": "R$3,90",
-        "tempoMedio": "16 min"
+        "tempoMedio": "16 min",
+        "schedule": "./CidadeDasFlores/Schedules",
+        "routes": "./CidadeDasFlores/BusRoutes"
     },
     {
         "linha": "01",
         "bairro": "COHAB1",
         "preco": "R$3,90",
-        "tempoMedio": "10 min"
+        "tempoMedio": "10 min",
+        "schedule": "./COHAB1/Schedules",
+        "routes": "./COHAB1/BusRoutes"
     },
     {
         "linha": "05",
         "bairro": "COHAB2",
         "preco": "R$3,90",
-        "tempoMedio": "14 min"
+        "tempoMedio": "14 min",
+        "schedule": "./COHAB2/Schedules",
+        "routes": "./COHAB2/BusRoutes"
     },
     {
         "linha": "07",
         "bairro": "FÊNIX L1",
         "preco": "R$3,90",
-        "tempoMedio": "10 min"
+        "tempoMedio": "10 min",
+        "schedule": "./FenixL1/Schedules",
+        "routes": "./FenixL1/BusRoutes"
     },
     {
         "linha": "020",
         "bairro": "Garoinha",
         "preco": "R$3,90",
-        "tempoMedio": "24 min"
+        "tempoMedio": "24 min",
+        "schedule": "./Garoinha/Schedules",
+        "routes": "./Garoinha/BusRoutes"
     },
     {
         "linha": "03",
         "bairro": "Indiano",
         "preco": "R$3,90",
-        "tempoMedio": "15 min"
+        "tempoMedio": "15 min",
+        "schedule": "./Indiano/Schedules",
+        "routes": "./Indiano/BusRoutes"
     },
     {
         "linha": "09",
         "bairro": "JM Dourado",
         "preco": "R$3,90",
-        "tempoMedio": "19 min"
+        "tempoMedio": "19 min",
+        "schedule": "./JMDourado/Schedules",
+        "routes": "./JMDourado/BusRoutes"
     },
     {
         "linha": "016",
         "bairro": "Liberdade",
         "preco": "R$3,90",
-        "tempoMedio": "20 min"
+        "tempoMedio": "20 min",
+        "schedule": "./Liberdade/Schedules",
+        "routes": "./Liberdade/BusRoutes"
     },
     {
         "linha": "04",
         "bairro": "Parque Fênix",
         "preco": "R$3,90",
-        "tempoMedio": "18 min"
+        "tempoMedio": "18 min",
+        "schedule": "./ParqueFenix/Schedules",
+        "routes": "./ParqueFenix/BusRoutes"
     }
-    
 ]

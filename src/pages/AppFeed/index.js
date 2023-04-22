@@ -16,6 +16,8 @@ export default function AppFeed() {
                         bairro={item.bairro}
                         preco={item.preco}
                         tempoMedio={item.tempoMedio}
+                        schedules={item.schedule}
+                        routes={item.routes}
                     />
                 ))}
             </div>
