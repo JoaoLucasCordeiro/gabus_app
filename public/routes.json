@@ -1,0 +1,52 @@
+[
+    {"rotasBrasilia": [
+
+        "Terminal Brasília",
+        "Rua Capitão Pedro Rodrigues",
+        "Rua Coronel Antonio Souto",
+        "Rua são Domingos",
+        "Rua Coronel Antônio Souto",
+        "Rua São Domingos",
+        "Rua Coronel Antônio Victor",
+        "Praça Mestre Dominguinhos",
+        "Rua Coronel Antônio Victor",
+        "Praça Mestre Dominguinhos",
+        "Praça Tiradentes | Mosteiro De São Bento",
+        "Rua Dantas Barreto",
+        "Terminal Centro",
+        "Av.Santo Antônio | Lojas Americanas",
+        "Rua Doutor José Mariano | Colégio XV De Novembro",
+        "Rua Ernesto Dourado",
+        "Av. Euclides Dourado",
+        "Rua Da Liberdade",
+        "Rua Dos Operários",
+        "Terminal Liberdade",
+        "Avenida Santa Rosa",
+        "Av, Rui Barbosa",
+        "Rua Quinze De Novembro | Praça Souto Filho"
+    ]},
+    {
+        "rotasCidadeDasFlores": [
+            "Terminal Centro",
+            "Av. Santo Antônio",
+            "Lojas Americnas",
+            "Rua Doutor José Mariano",
+            "Av. Rui Barbosa | Hotel Tavares Corr Av. Rui Barbosa",
+            "Avenida Santa Rosa",
+            "Rua Da Liberdade",
+            "Rua Voluntários Da Pátria",
+            "Rua Cristóvam Colombo",
+            "Rua Chico Mendes",
+            "Rua Mendes",
+            "Rua um",
+            "Rua Sargento Evandro Marcílio",
+            "Rua Sebastião Paes de Melo",
+            "Rua João Pedro Da Silva",
+            "Rua Ministro Dilson Funaro",
+            "Loteamento Iranapolis",
+            "Rua Projetada",
+            "Rua Sebastião Paes De Melo",
+            "Terminal Das Flores"
+        ]
+    }
+]

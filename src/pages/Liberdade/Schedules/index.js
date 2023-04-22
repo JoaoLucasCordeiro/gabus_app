@@ -19,7 +19,7 @@ export default function Schedules() {
             </div>
 
 
-            <h1 className="text-white mt-5 text-xl font-bold mb-10">Horários Brasília</h1>
+            <h1 className="text-white mt-5 text-xl font-bold mb-10">Horários Liberdade</h1>
 
 
             <div className="flex items-center justify-around w-full">
