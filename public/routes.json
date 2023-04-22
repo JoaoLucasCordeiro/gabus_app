@@ -1,30 +1,31 @@
 [
-    {"rotasBrasilia": [
-
-        "Terminal Brasília",
-        "Rua Capitão Pedro Rodrigues",
-        "Rua Coronel Antonio Souto",
-        "Rua são Domingos",
-        "Rua Coronel Antônio Souto",
-        "Rua São Domingos",
-        "Rua Coronel Antônio Victor",
-        "Praça Mestre Dominguinhos",
-        "Rua Coronel Antônio Victor",
-        "Praça Mestre Dominguinhos",
-        "Praça Tiradentes | Mosteiro De São Bento",
-        "Rua Dantas Barreto",
-        "Terminal Centro",
-        "Av.Santo Antônio | Lojas Americanas",
-        "Rua Doutor José Mariano | Colégio XV De Novembro",
-        "Rua Ernesto Dourado",
-        "Av. Euclides Dourado",
-        "Rua Da Liberdade",
-        "Rua Dos Operários",
-        "Terminal Liberdade",
-        "Avenida Santa Rosa",
-        "Av, Rui Barbosa",
-        "Rua Quinze De Novembro | Praça Souto Filho"
-    ]},
+    {
+        "rotasBrasilia": [
+            "Terminal Brasília",
+            "Rua Capitão Pedro Rodrigues",
+            "Rua Coronel Antonio Souto",
+            "Rua são Domingos",
+            "Rua Coronel Antônio Souto",
+            "Rua São Domingos",
+            "Rua Coronel Antônio Victor",
+            "Praça Mestre Dominguinhos",
+            "Rua Coronel Antônio Victor",
+            "Praça Mestre Dominguinhos",
+            "Praça Tiradentes | Mosteiro De São Bento",
+            "Rua Dantas Barreto",
+            "Terminal Centro",
+            "Av.Santo Antônio | Lojas Americanas",
+            "Rua Doutor José Mariano | Colégio XV De Novembro",
+            "Rua Ernesto Dourado",
+            "Av. Euclides Dourado",
+            "Rua Da Liberdade",
+            "Rua Dos Operários",
+            "Terminal Liberdade",
+            "Avenida Santa Rosa",
+            "Av, Rui Barbosa",
+            "Rua Quinze De Novembro | Praça Souto Filho"
+        ]
+    },
     {
         "rotasCidadeDasFlores": [
             "Terminal Centro",
@@ -47,6 +48,180 @@
             "Rua Projetada",
             "Rua Sebastião Paes De Melo",
             "Terminal Das Flores"
+        ]
+    },
+    {
+        "rotasCOHAB1": [
+            "Terminal Centro",
+            "Av. Santo Antônio José Mariano",
+            "Rua Doutor José Mariano",
+            "Colégio XV De Novembro",
+            "Hotel Tavares Correia",
+            "Av. Rui Barbosa",
+            "Av. Pedro Cavalcante",
+            "Av. Duque De Caxias",
+            "Rua Um",
+            "Rua Sargento Evandro Marcílio",
+            "Rua Ernesto Nazarem",
+            "Rua Ataúlfo Alves",
+            "Rua Três",
+            "Rua Um",
+            "Terminal Cohab1"
+        ]
+    },
+    {
+        "rotasCOHAB2": [
+            "Terminal Centro",
+            "Praça Dom Pedro II",
+            "Av. José Leitão",
+            "Av. sul",
+            "Av. Deolinda Silvestre Valença",
+            "Rua Antônio Machado",
+            "Av. Florêncio Rodrigues",
+            "Rua Pedro Lima",
+            "Rua Altinho",
+            "Rua Paraguai",
+            "Rua Professor Mario Matos",
+            "Av. Manoel Alves Machado",
+            "Terminal Cohab 2"
+        ]
+    },
+    {
+        "rotasFenixL1": [
+            "Terminal Centro",
+            "Av. Santo AntÔnio | Lojas Americanas",
+            "Rua Doutor José Mariano",
+            "Colégio XV De Novembro",
+            "Rua Ernesto Dourado",
+            "Av. Pedro Cavalcante",
+            "Rua Agostinho Branco",
+            "Rua Trinta e Um de Março",
+            "Rua Coelho Neto",
+            "Rua Cristóvão Colombo",
+            "Rua Chico Mendes",
+            "Rua Um",
+            "Rua Sargento Evandro Marcílio",
+            "Rua Jaime Pinheiro de Souza",
+            "Rua José Cardoso",
+            "Terminal Parque Fênix",
+            "Rua Ministro Dilson Funaro",
+            "Rua Sebastião Paes De Melo"
+        ]
+    },
+    {
+        "rotasGaroinha": [
+            "Terminal COHAB1",
+            "Av. Duque De Caxias",
+            "Rua Francisco Gueiros",
+            "Av. Pedro Cavalcante",
+            "Praça Tavares Correia",
+            "Av. Rui Barbosa",
+            "Av. Simoa Gomes | Hospital Dom Moura",
+            "Av. Caruaru",
+            "Rua Coronel Antônio Victor",
+            "Praça Mestre Dominguinhos",
+            "Praça Tiradentes | Mosteiro De São Bento",
+            "Rua Dantos Barreto",
+            "Terminal Centro",
+            "Praça Dom Pedro II",
+            "Av. José Leitão",
+            "Av. Sul",
+            "Av. Dolinda Silvestre Valença",
+            "Av. Manoel Alves Machado",
+            "Terminal COHAB2"
+        ]
+    },
+    {
+        "rotasIndiano": [
+            "Terminal Indiano",
+            "Rua Professora Cecília Correia",
+            "Rua Padre Agobar Valença",
+            "Rua Francisco Paes De Melo",
+            "Rua Manoel Pessoa Juvenal",
+            "Rua Agobar Valença",
+            "Rua Manoel Cipriano Da Cruz",
+            "Rua Abílio Camilo Valença",
+            "Av. Tavares Correia",
+            "Av. Julio Brasileiro",
+            "AV. Oliveira Lima",
+            "Av. Caruaru",
+            "Rua Coronel Antônio Victor",
+            "Praça Mestre Dominguinhos",
+            "Praça Tiradentes | Mosteiro De São Bento",
+            "Rua Dantas Barreto",
+            "Terminal Centro"
+        ]
+    },
+    {
+        "rotasJMDourado": [
+            "Terminal Centro",
+            "Av. Santo Antônio | Lojas Americanas",
+            "Av. Afonso Pena",
+            "Av. Caruaru",
+            "FAGA / Aesga",
+            "Av. Simoa Gomes",
+            "Av. Júlio Brasileiro",
+            "Praça Tavares Correia",
+            "Br-423",
+            "Rua Da Luís Rodão De Araújo",
+            "Rua Capitão Valdemar Viana",
+            "Avenida Monsenhor Arruda Câmara",
+            "Rua Josenildo Henrique Saraiva Dos Santos",
+            "Estrada De São Pedro",
+            "Rua José Bezerra Lins",
+            "Terminal Viana & Moura"
+        ]
+    },
+    {
+        "rotasLiberdade": [
+            "Terminal Brasília",
+            "Rua Capitão Pedro Rodrigues",
+            "Rua Coronel Antônio Souto",
+            "Rua Sâo Domingos",
+            "Rua Coronel Antônio Victor",
+            "Praça Mestre Dominguinhos",
+            "Praça Tiradentes | Mosteiro De São Bento",
+            "Rua Dantas Barreto",
+            "Terminal Centro",
+            "Av.Santo Antônio | Lojas Americanas",
+            "Av. Afonso Pena",
+            "Av. Caruaru",
+            "Faga / AESGA",
+            "Av. Simoa Gomes",
+            "Av. Rui Barbosa",
+            "Av. Santa Rosa",
+            "Av. Pedro Cavalcante",
+            "Rua Agostinho Branco",
+            "Rua Trinta E Um De Março",
+            "Rua Mauro De Souza Lima Filho",
+            "Rua Trinta E Um De Março",
+            "Rua Da Liberdade",
+            "Rua Dos Operários"
+        ]
+    },
+    {
+        "rotasParqueFenix": [
+            "Terminal Parque Fênix",
+            "Rua Ministro Mario Andreazza",
+            "Rua José Cardoso",
+            "Rua Jaime Pinheiro De Souza",
+            "Rua Sargento Evandro Marcílio",
+            "Rua Chico Mendes",
+            "Rua Cristóvão Colombo",
+            "Rua Brás Cubas",
+            "Rua Mauro De Souza Lima Filho",
+            "Rua Trinta E Um De Março",
+            "Rua Felipe Camarão",
+            "Rua Agostinho Branco",
+            "Avenida Pedro Camarão",
+            "Rua Agostinho Branco",
+            "Avenida Pedro Cavalcante",
+            "Praça Tavares Correia",
+            "Av. Rui Barbosa",
+            "Rua Quinze De Novembro | Praça Souto Filho",
+            "Rua Quinze De Novembro",
+            "Rua Dantas Barreto | Praça Dom Moura",
+            "Terminal Centro"
         ]
     }
 ]

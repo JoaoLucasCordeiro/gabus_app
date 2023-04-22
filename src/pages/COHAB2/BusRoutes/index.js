@@ -1,6 +1,8 @@
 import Link from 'next/link'
 import Image from 'next/image'
 import ArrowIcon from '../../../../public/icons/arrow.png'
+import RoutesData from '../../../../public/routes.json'
+import RouteName from '../../../../components/RouteName'
 
 
 export default function BusRoutes() {
@@ -16,15 +18,22 @@ export default function BusRoutes() {
             <h1 className="text-white mt-5 text-xl font-bold">Este ônibus passará por:</h1>
 
 
-            <div className='flex flex-col justify-center items-center mt-10 gap-5'>
-                <span className='text-white'>Algum lugar</span>
-                <span className='text-white'>Algum lugar</span>
-                <span className='text-white'>Algum lugar</span>
-                <span className='text-white'>Algum lugar</span>
-                <span className='text-white'>Algum lugar</span>
-                <span className='text-white'>Algum lugar</span>
+            <div className='flex flex-col justify-center items-center mt-10 gap-5 w-[325px] text-center'>
+                {RoutesData.map((item) => {
+                    if (Object.keys(item)[0] === "rotasCOHAB2") {
+                        return (
+                            <div key="rotasCOHAB2">
+                                {item.rotasCOHAB2.map((rota) => (
+                                    <RouteName
+                                        key={rota}
+                                        name={rota}
+                                    />
+                                ))}
+                            </div>
+                        );
+                    }
+                })}
             </div>
-
         </div>
     )
 }
