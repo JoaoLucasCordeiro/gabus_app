@@ -1,9 +1,10 @@
 import Link from 'next/link'
-import coracaoIcon from '../../public/icons/coracao_icon.png'
+import FavoriteHeart from '../../public/icons/EmptyHeart.png'
 import Image from 'next/image'
+import { useState } from 'react';
 
+export default function RouteModal({ linha, bairro, preco, tempoMedio, schedules, routes }) {
 
-export default function RouteModal({ linha, bairro, preco, tempoMedio, schedules, routes}) {
     return (
         <div className="w-[350px] p-5 rounded-[20px] bg-secondaryBg flex flex-col items-center mt-5">
 
@@ -14,7 +15,7 @@ export default function RouteModal({ linha, bairro, preco, tempoMedio, schedules
                     <span className="text-green-500">{linha}</span>
                 </div>
 
-                <h1 className="text-white">{bairro}</h1>
+                <h1 className="text-white font-bold">{bairro}</h1>
 
                 <div className="flex flex-col items-center justify-center ">
                     <span className="text-white">Preço</span>
@@ -23,7 +24,7 @@ export default function RouteModal({ linha, bairro, preco, tempoMedio, schedules
 
             </div>
 
-            <div className="flex items-center justify-between w-full mt-4">
+            <div className="flex items-center justify-around w-full mt-4">
 
                 <div className="flex flex-col items-center justify-center ">
                     <span className="text-white">Tempo médio</span>
@@ -31,7 +32,7 @@ export default function RouteModal({ linha, bairro, preco, tempoMedio, schedules
                 </div>
 
                 <div className='cursor-pointer'>
-                    <Image src={coracaoIcon} width={24} height={24} alt='ícone de favoritar' />
+                    <Image src={FavoriteHeart} width={22} height={22} alt='ícone de favoritar' />
                 </div>
 
             </div>

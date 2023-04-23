@@ -23,7 +23,6 @@ export default function Schedules() {
             <h1 className="text-white mt-5 text-xl font-bold mb-10">Horários Parque Fênix</h1>
 
 
-           
             <div className="flex justify-around w-full">
 
                 <div className="flex flex-col items-center w-full">

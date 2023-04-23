@@ -6,9 +6,6 @@ import BarDays from "../../../../components/BarDays"
 import ArrowIcon from '../../../../public/icons/arrow.png'
 import SchedulesData from '../../../../public/schedules.json'
 
-
-
-
 export default function Schedules() {
     return (
         <div className="flex flex-col items-center bg-mainBg min-h-screen h-screen-sm w-[414px] h-[696px]">
@@ -19,9 +16,7 @@ export default function Schedules() {
                 </Link>
             </div>
 
-
             <h1 className="text-white mt-5 text-xl font-bold mb-10">Horários Liberdade</h1>
-
 
             <div className="flex justify-around w-full">
 
@@ -40,7 +35,6 @@ export default function Schedules() {
                 </div>
 
             </div>
-
 
             <BarDays />
 
