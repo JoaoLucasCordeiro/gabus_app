@@ -13,11 +13,7 @@ export default function NavigationBar() {
                 </Link>
             </div>
 
-            <div>
-                <Link href="./FavoriteRoutes">
-                    <Image src={FavoriteHeart} width={24} height={24} alt='Icone da barra da navegação' />
-                </Link>
-            </div>
+
         </div>
     )
 }
