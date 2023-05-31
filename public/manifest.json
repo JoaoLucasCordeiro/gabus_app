@@ -1,7 +1,7 @@
 {
     "theme_color": "#464747",
     "background_color": "#464747",
-    "display": "standalone",
+    "display": "fullscreen",
     "scope": "/",
     "start_url": "/",
     "name": "GaBus",
